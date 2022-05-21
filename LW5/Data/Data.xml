@@ -1,0 +1,931 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Cars>
+                                        
+
+    
+    <Car>
+                                                                                
+        
+        
+        
+        
+        
+        
+        
+        
+        <Id>1</Id>
+                                                                                
+        
+        
+        
+        
+        
+        
+        
+        
+        <Brand>BMW</Brand>
+                                                                                
+        
+        
+        
+        
+        
+        
+        
+        
+        <Model>X5</Model>
+                                                                                
+        
+        
+        
+        
+        
+        
+        
+        
+        <Color>Black</Color>
+                                                                                
+        
+        
+        
+        
+        
+        
+        
+        
+        <Plate>x898xx40</Plate>
+                                                                                
+        
+        
+        
+        
+        
+        
+        
+        
+        <Owner>
+                                                                                                                        
+            
+            
+            
+            
+            
+            
+            
+            
+            <FirstName>Alexander</FirstName>
+                                                                                                                        
+            
+            
+            
+            
+            
+            
+            
+            
+            <SecondName>Ivanov</SecondName>
+                                                                                                                        
+            
+            
+            
+            
+            
+            
+            
+            
+            <MiddleName>Kirillovich</MiddleName>
+                                                                                                                    
+        
+        
+        
+        
+        
+        
+        
+        
+        </Owner>
+                                                                            
+    
+    
+    
+    
+    
+    
+    
+    
+    </Car>
+                                        
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    <Car>
+                                                                                
+        
+        
+        
+        
+        
+        
+        
+        
+        <Id>2</Id>
+                                                                                
+        
+        
+        
+        
+        
+        
+        
+        
+        <Brand>Audi</Brand>
+                                                                                
+        
+        
+        
+        
+        
+        
+        
+        
+        <Model>A6</Model>
+                                                                                
+        
+        
+        
+        
+        
+        
+        
+        
+        <Color>White</Color>
+                                                                                
+        
+        
+        
+        
+        
+        
+        
+        
+        <Plate>x777xx99</Plate>
+                                                                                
+        
+        
+        
+        
+        
+        
+        
+        
+        <Owner>
+                                                                                                                        
+            
+            
+            
+            
+            
+            
+            
+            
+            <FirstName>Fedor</FirstName>
+                                                                                                                        
+            
+            
+            
+            
+            
+            
+            
+            
+            <SecondName>Jukov</SecondName>
+                                                                                                                        
+            
+            
+            
+            
+            
+            
+            
+            
+            <MiddleName>Eliseev</MiddleName>
+                                                                                                                    
+        
+        
+        
+        
+        
+        
+        
+        
+        </Owner>
+                                                                            
+    
+    
+    
+    
+    
+    
+    
+    
+    </Car>
+                                        
+    
+    
+    
+    
+    
+    
+    
+    
+    <Car>
+                                                                                
+        
+        
+        
+        
+        
+        
+        
+        
+        <Id>3</Id>
+                                                                                
+        
+        
+        
+        
+        
+        
+        
+        
+        <Brand>Ferrari</Brand>
+                                                                                
+        
+        
+        
+        
+        
+        
+        
+        
+        <Model>430</Model>
+                                                                                
+        
+        
+        
+        
+        
+        
+        
+        
+        <Color>Red</Color>
+                                                                                
+        
+        
+        
+        
+        
+        
+        
+        
+        <Plate>e555ee32</Plate>
+                                                                                
+        
+        
+        
+        
+        
+        
+        
+        
+        <Owner>
+                                                                                                                        
+            
+            
+            
+            
+            
+            
+            
+            
+            <FirstName>Mikhail</FirstName>
+                                                                                                                        
+            
+            
+            
+            
+            
+            
+            
+            
+            <SecondName>Red</SecondName>
+                                                                                                                        
+            
+            
+            
+            
+            
+            
+            
+            
+            <MiddleName>Sun</MiddleName>
+                                                                                                                    
+        
+        
+        
+        
+        
+        
+        
+        
+        </Owner>
+                                                                            
+    
+    
+    
+    
+    
+    
+    
+    
+    </Car>
+                                        
+    
+    
+    
+    
+    
+    
+    
+    
+    <Car>
+                                                                                
+        
+        
+        
+        
+        
+        
+        
+        
+        <Id>5</Id>
+                                                                                
+        
+        
+        
+        
+        
+        
+        
+        
+        <Brand>Audi</Brand>
+                                                                                
+        
+        
+        
+        
+        
+        
+        
+        
+        <Model>A7</Model>
+                                                                                
+        
+        
+        
+        
+        
+        
+        
+        
+        <Color>Black</Color>
+                                                                                
+        
+        
+        
+        
+        
+        
+        
+        
+        <Plate>600</Plate>
+                                                                                
+        
+        
+        
+        
+        
+        
+        
+        
+        <Owner>
+                                                                                                                        
+            
+            
+            
+            
+            
+            
+            
+            
+            <FirstName>Noname</FirstName>
+                                                                                                                        
+            
+            
+            
+            
+            
+            
+            
+            
+            <SecondName>Noname</SecondName>
+                                                                                                                        
+            
+            
+            
+            
+            
+            
+            
+            
+            <MiddleName>Noname</MiddleName>
+                                                                                                                    
+        
+        
+        
+        
+        
+        
+        
+        
+        </Owner>
+                                                                            
+    
+    
+    
+    
+    
+    
+    
+    
+    </Car>
+                                    
+    
+    
+    
+    
+    
+    
+    
+    
+    <Car>
+                                                                        
+        
+        
+        
+        
+        
+        
+        
+        <Id>5</Id>
+                                                                        
+        
+        
+        
+        
+        
+        
+        
+        <Brand>Tesla</Brand>
+                                                                        
+        
+        
+        
+        
+        
+        
+        
+        <Model>2212</Model>
+                                                                        
+        
+        
+        
+        
+        
+        
+        
+        <Color>Black</Color>
+                                                                        
+        
+        
+        
+        
+        
+        
+        
+        <Plate>666</Plate>
+                                                                        
+        
+        
+        
+        
+        
+        
+        
+        <Owner>
+                                                                                                            
+            
+            
+            
+            
+            
+            
+            
+            <FirstName>Nikita</FirstName>
+                                                                                                            
+            
+            
+            
+            
+            
+            
+            
+            <SecondName>Nasypalov</SecondName>
+                                                                                                            
+            
+            
+            
+            
+            
+            
+            
+            <MiddleName>Andreevich</MiddleName>
+                                                                                                        
+        
+        
+        
+        
+        
+        
+        
+        </Owner>
+                                                                    
+    
+    
+    
+    
+    
+    
+    
+    </Car>
+                                
+
+    
+    
+    
+    
+    
+    
+    <Car>
+                                                        
+        
+        
+        
+        
+        
+        <Id>6</Id>
+                                                        
+        
+        
+        
+        
+        
+        <Brand>Hammer</Brand>
+                                                        
+        
+        
+        
+        
+        
+        <Model>33</Model>
+                                                        
+        
+        
+        
+        
+        
+        <Color>Silver</Color>
+                                                        
+        
+        
+        
+        
+        
+        <Plate>x777xx77</Plate>
+                                                        
+        
+        
+        
+        
+        
+        <Owner>
+                                                                                    
+            
+            
+            
+            
+            
+            <FirstName>Alexander</FirstName>
+                                                                                    
+            
+            
+            
+            
+            
+            <SecondName>ivaon</SecondName>
+                                                                                    
+            
+            
+            
+            
+            
+            <MiddleName>Spichka</MiddleName>
+                                                                                
+        
+        
+        
+        
+        
+        </Owner>
+                                                    
+    
+    
+    
+    
+    
+    </Car>
+                        
+    
+    
+    
+    
+    
+    <Car>
+                                                
+        
+        
+        
+        
+        <Id>7</Id>
+                                                
+        
+        
+        
+        
+        <Brand>BMW</Brand>
+                                                
+        
+        
+        
+        
+        <Model>X5</Model>
+                                                
+        
+        
+        
+        
+        <Color>Black</Color>
+                                                
+        
+        
+        
+        
+        <Plate>x898xx40</Plate>
+                                                
+        
+        
+        
+        
+        <Owner>
+                                                                        
+            
+            
+            
+            
+            <FirstName>Alexander</FirstName>
+                                                                        
+            
+            
+            
+            
+            <SecondName>Ivanov</SecondName>
+                                                                        
+            
+            
+            
+            
+            <MiddleName>Kirillovich</MiddleName>
+                                                                    
+        
+        
+        
+        
+        </Owner>
+                                            
+    
+    
+    
+    
+    </Car>
+                    
+    
+    
+    
+    
+    <Car>
+                                        
+        
+        
+        
+        <Id>8</Id>
+                                        
+        
+        
+        
+        <Brand>Audi</Brand>
+                                        
+        
+        
+        
+        <Model>A6</Model>
+                                        
+        
+        
+        
+        <Color>White</Color>
+                                        
+        
+        
+        
+        <Plate>x777xx99</Plate>
+                                        
+        
+        
+        
+        <Owner>
+                                                            
+            
+            
+            
+            <FirstName>Fedor</FirstName>
+                                                            
+            
+            
+            
+            <SecondName>Jukov</SecondName>
+                                                            
+            
+            
+            
+            <MiddleName>Eliseev</MiddleName>
+                                                        
+        
+        
+        
+        </Owner>
+                                    
+    
+    
+    
+    </Car>
+                
+    
+    
+    
+    <Car>
+                                
+        
+        
+        <Id>9</Id>
+                                
+        
+        
+        <Brand>Ferrari</Brand>
+                                
+        
+        
+        <Model>430</Model>
+                                
+        
+        
+        <Color>Red</Color>
+                                
+        
+        
+        <Plate>e555ee32</Plate>
+                                
+        
+        
+        <Owner>
+                                                
+            
+            
+            <FirstName>Mikhail</FirstName>
+                                                
+            
+            
+            <SecondName>Red</SecondName>
+                                                
+            
+            
+            <MiddleName>Sun</MiddleName>
+                                            
+        
+        
+        </Owner>
+                            
+    
+    
+    </Car>
+            
+    
+    
+    <Car>
+                        
+        
+        <Id>10</Id>
+                        
+        
+        <Brand>Audi</Brand>
+                        
+        
+        <Model>A7</Model>
+                        
+        
+        <Color>Black</Color>
+                        
+        
+        <Plate>600</Plate>
+                        
+        
+        <Owner>
+                                    
+            
+            <FirstName>Noname</FirstName>
+                                    
+            
+            <SecondName>Noname</SecondName>
+                                    
+            
+            <MiddleName>Noname</MiddleName>
+                                
+        
+        </Owner>
+                    
+    
+    </Car>
+        
+    
+    <Car>
+                
+        <Id>11</Id>
+                
+        <Brand>Tesla</Brand>
+                
+        <Model>2212</Model>
+                
+        <Color>Black</Color>
+                
+        <Plate>666</Plate>
+                
+        <Owner>
+                        
+            <FirstName>Nikita</FirstName>
+                        
+            <SecondName>Nasypalov</SecondName>
+                        
+            <MiddleName>Andreevich</MiddleName>
+                    
+        </Owner>
+            
+    </Car>
+    
+    <Car>
+        <Id>12</Id>
+        <Brand>Жигуль</Brand>
+        <Model>Самая</Model>
+        <Color>новая</Color>
+        <Plate>3</Plate>
+        <Owner>
+            <FirstName>Petrov</FirstName>
+            <SecondName>Petr</SecondName>
+            <MiddleName>Petrovich</MiddleName>
+        </Owner>
+    </Car>
+</Cars>
