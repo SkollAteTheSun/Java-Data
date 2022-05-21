@@ -8,6 +8,7 @@ Lab work on learning the basics of working with xml files, properties and databa
 5. Implement a search by the specified parameters. The search can be carried out by one or several parameters. If the parameter is numeric, then it should be possible to search for the maximum and minimum values.
 6. The minimum number of records in the database or xml is 10.
 7. In the *.properties file, you must store:
-  - Database connection settings;
-  - Working directory;
-  - Texts of information messages and error messages.
+  -
+   - Database connection settings;
+   - Working directory;
+   - Texts of information messages and error messages.
